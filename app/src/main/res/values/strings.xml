@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AgroPlanner</string>
+    <string name="lbl_set_profile_photo">set Profile</string>
+    <string name="lbl_take_camera_picture">Take Photo</string>
+    <string name="lbl_choose_from_gallery">Choose From Gallery</string>
+    <string name="lbl_set_post_photo">Set Image</string>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Tree Integrated Solution (TIS)/Mobile Application/AgroPlanner/AgroPlanner/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1605" />
+        <entry key="..\:/Tree Integrated Solution (TIS)/Mobile Application/AgroPlanner/AgroPlanner/app/src/main/res/drawable/back_icon.xml" value="0.1605" />
+        <entry key="..\:/Tree Integrated Solution (TIS)/Mobile Application/AgroPlanner/AgroPlanner/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1605" />
+        <entry key="..\:/Tree Integrated Solution (TIS)/Mobile Application/AgroPlanner/AgroPlanner/app/src/main/res/layout/activity_calendar.xml" value="0.264" />
+        <entry key="..\:/Tree Integrated Solution (TIS)/Mobile Application/AgroPlanner/AgroPlanner/app/src/main/res/layout/activity_calendar_display.xml" value="0.264" />
+        <entry key="..\:/Tree Integrated Solution (TIS)/Mobile Application/AgroPlanner/AgroPlanner/app/src/main/res/layout/activity_dashboard.xml" value="0.264" />
+        <entry key="..\:/Tree Integrated Solution (TIS)/Mobile Application/AgroPlanner/AgroPlanner/app/src/main/res/layout/activity_edit_profile.xml" value="0.159375" />
+        <entry key="..\:/Tree Integrated Solution (TIS)/Mobile Application/AgroPlanner/AgroPlanner/app/src/main/res/layout/activity_feed.xml" value="0.59375" />
+        <entry key="..\:/Tree Integrated Solution (TIS)/Mobile Application/AgroPlanner/AgroPlanner/app/src/main/res/layout/activity_plant_dialog.xml" value="0.536" />
+        <entry key="..\:/Tree Integrated Solution (TIS)/Mobile Application/AgroPlanner/AgroPlanner/app/src/main/res/layout/activity_plants.xml" value="0.264" />
+        <entry key="..\:/Tree Integrated Solution (TIS)/Mobile Application/AgroPlanner/AgroPlanner/app/src/main/res/layout/activity_plot1.xml" value="0.176" />
+        <entry key="..\:/Tree Integrated Solution (TIS)/Mobile Application/AgroPlanner/AgroPlanner/app/src/main/res/layout/activity_post_image.xml" value="0.264" />
+        <entry key="..\:/Tree Integrated Solution (TIS)/Mobile Application/AgroPlanner/AgroPlanner/app/src/main/res/layout/activity_profile.xml" value="0.264" />
+        <entry key="..\:/Tree Integrated Solution (TIS)/Mobile Application/AgroPlanner/AgroPlanner/app/src/main/res/layout/activity_register.xml" value="0.176" />
+        <entry key="..\:/Tree Integrated Solution (TIS)/Mobile Application/AgroPlanner/AgroPlanner/app/src/main/res/layout/activity_splash.xml" value="0.159375" />
+        <entry key="..\:/Tree Integrated Solution (TIS)/Mobile Application/AgroPlanner/AgroPlanner/app/src/main/res/layout/calendar.xml" value="0.32447916666666665" />
+        <entry key="..\:/Tree Integrated Solution (TIS)/Mobile Application/AgroPlanner/AgroPlanner/app/src/main/res/layout/calender_dialog.xml" value="0.32447916666666665" />
+        <entry key="..\:/Tree Integrated Solution (TIS)/Mobile Application/AgroPlanner/AgroPlanner/app/src/main/res/layout/customspinner.xml" value="0.32447916666666665" />
+        <entry key="..\:/Tree Integrated Solution (TIS)/Mobile Application/AgroPlanner/AgroPlanner/app/src/main/res/layout/edit_dialog.xml" value="0.32447916666666665" />
+        <entry key="..\:/Tree Integrated Solution (TIS)/Mobile Application/AgroPlanner/AgroPlanner/app/src/main/res/layout/main_action_bar.xml" value="0.159375" />
+        <entry key="..\:/Tree Integrated Solution (TIS)/Mobile Application/AgroPlanner/AgroPlanner/app/src/main/res/layout/plants2.xml" value="0.264" />
+        <entry key="..\:/Tree Integrated Solution (TIS)/Mobile Application/AgroPlanner/AgroPlanner/app/src/main/res/layout/return_action_bar.xml" value="0.264" />
+        <entry key="..\:/Tree Integrated Solution (TIS)/Mobile Application/AgroPlanner/Code Hamizan/AgroPlanner/AgroPlanner/app/src/main/res/layout/activity_dashboard.xml" value="0.27447916666666666" />
+        <entry key="..\:/Tree Integrated Solution (TIS)/Mobile Application/AgroPlanner/Code Hamizan/AgroPlanner/AgroPlanner/app/src/main/res/layout/activity_post_image.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/aziz/AndroidStudioProjects/AgroPlanner (6)/AgroPlanner/app/src/main/res/layout/activity_plant_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aziz/AndroidStudioProjects/AgroPlanner (6)/AgroPlanner/app/src/main/res/layout/activity_plants.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aziz/AndroidStudioProjects/AgroPlanner (6)/AgroPlanner/app/src/main/res/layout/activity_post_image.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aziz/AndroidStudioProjects/AgroPlanner (6)/AgroPlanner/app/src/main/res/layout/calendar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aziz/AndroidStudioProjects/AgroPlanner (6)/AgroPlanner/app/src/main/res/layout/calender_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aziz/AndroidStudioProjects/AgroPlanner (6)/AgroPlanner/app/src/main/res/layout/customspinner.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aziz/AndroidStudioProjects/AgroPlanner (6)/AgroPlanner/app/src/main/res/layout/plants2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aziz/AndroidStudioProjects/AgroPlanner 4/AgroPlanner/app/src/main/res/layout/activity_edit_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aziz/AndroidStudioProjects/AgroPlanner 4/AgroPlanner/app/src/main/res/layout/activity_profile.xml" value="0.2210144927536232" />
+        <entry key="..\:/Users/aziz/AndroidStudioProjects/AgroPlanner 4/AgroPlanner/app/src/main/res/layout/return_action_bar.xml" value="0.10677083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

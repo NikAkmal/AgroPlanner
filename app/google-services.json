@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "614051315495",
+    "project_id": "agroplanner-4efff",
+    "storage_bucket": "agroplanner-4efff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614051315495:android:369822f9472d2ad8fc3302",
+        "android_client_info": {
+          "package_name": "com.example.agroplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614051315495-ruf875pq9nl1r33mj3ctrfdtns02clq7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agroplanner",
+            "certificate_hash": "465d7564fc386bbd63372b52eb9494616602c893"
+          }
+        },
+        {
+          "client_id": "614051315495-cibtp28nt2acaf4l75pog69g0orpeik9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSYtPWtKyrjHrAUjYqOkivgNRdQFAN2go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614051315495-cibtp28nt2acaf4l75pog69g0orpeik9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
